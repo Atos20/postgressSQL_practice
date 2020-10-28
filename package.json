@@ -1,0 +1,21 @@
+{
+  "name": "postgress-example",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.7",
+    "pg": "^8.4.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
